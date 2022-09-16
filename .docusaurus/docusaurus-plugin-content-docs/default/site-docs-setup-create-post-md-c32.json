@@ -1,7 +1,7 @@
 {
   "unversionedId": "setup/create-post",
   "id": "setup/create-post",
-  "title": "Create Entry",
+  "title": "2. Create Entry",
   "description": "Let's create an entry!",
   "source": "@site/docs/setup/create-post.md",
   "sourceDirName": "setup",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create Account",
+    "title": "1. Create Account",
     "permalink": "/grow-docs/docs/setup/create-account"
   },
   "next": {
-    "title": "Create Graph",
+    "title": "3. Create Graph",
     "permalink": "/grow-docs/docs/setup/create-graph"
   }
 }

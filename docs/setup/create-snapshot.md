@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Create Snapshot
+# 4. Create Snapshot
 :::warning Before you go on
 You must have created a [graph](create-graph) in order to start making snapshots.
 :::
@@ -13,7 +13,15 @@ You must have created a [graph](create-graph) in order to start making snapshots
 
 After you finish this section, you will have created one snapshot.
 
-This is the result from my own usage.
+The snapshot will be called **Life**.
+It will have two groups:
+1. Personal
+2. Career
+
+All nodes associated with Personal are placed in the Personal group.
+All nodes associated with Career are placed in the Career group.
+
+This is the result from my own `Life` snapshot.
 
 ![banner](/img/snapshot/all_snapshots.png)
 

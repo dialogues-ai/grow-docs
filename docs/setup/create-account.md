@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Create Account
+# 1. Create Account
 
 Follow these steps to create your account.
 

@@ -2,15 +2,25 @@
 sidebar_position: 3
 ---
 
-# Create Graph
+# 3. Create Graph
 
-The graph and snapshot are the last steps to setting up your journal. And the graph takes just a little planning. Together we'll create a simple graph, and you can add to it, and start a new one as you get a grasp of it.
+The graph and snapshot are the last steps to setting up your journal. 
 
-Here is an example from journaling my work on Grow:
+The graph takes just a little bit of planning. You should ask yourself, "How do I want to categorize the activities of my life?"
+
+A simple framework can be Hobbies, Personal Items, Work.
+
+Together we'll create a simple graph. You can add to it, and/or start a new one as you get a grasp of it. There is no doing it incorrectly, and the longer you do it, the more clear its structure ought to be.
+
+Here is an example from journaling my own work on Grow:
 
 ![/img/graph_screen/graph_sample](/img/graph_screen/graph_sample.png)
 
-The way you build this here, combined with the [snapshot](create-snapshot), goes towards setting up the accounting metrics for the radar chart, and the time-tunnel.
+:::tip How this fits in
+The way you build this graph, combined with the [snapshot](create-snapshot), enables the radar chart, and the time-tunnel displays. 
+
+In order to calculate the total time spent in different buckets, you will have to form a graph and snapshot.
+:::
 
 
 1. ~~Make an entry.~~
@@ -18,6 +28,11 @@ The way you build this here, combined with the [snapshot](create-snapshot), goes
 3. Add snapshot from the graph.
 
 
+### i. Navigate to Graph Screen
+
+On the left side of the screen, select the **Story Builder** tab.
+
+<img src="/grow-docs/img/side_menu_navigation.png" width="270"/>
 
 ## 1. Start Fresh Page
 
@@ -36,23 +51,22 @@ First off, you need to start a fresh page. It's easy.
 
 <img src="/grow-docs/img/graph_screen/turn_page_selection.png" width="130"/>
 
-5. Enjoy the animation! From old page to new!
+5. Enjoy the animation
 
-6. When the animation is complete, you are ready to setup your graph! 🎉
+6. When the animation is complete, you are ready to build your graph! 🎉
 
 
 ## 2. Add Nodes to Graph
 
 We need to add some nodes to the graph.
 
-1. In the upper right hand of the screen, select the `Nodes List` box.
+1. In the upper right hand of the screen, click the `Nodes List` box. You will see the **Nodes List** menu appear below it.
 2. Tap the hamburger menu icon to display all the available nodes.
 
 <img src="/grow-docs/img/graph_screen/nodes_list_menu_icon_highlight.png" width="145"/>
 
 :::info No nodes appear
-
-If no nodes are appearing in your list when you click the menu button. Hard refresh your application. (Hold shift and press the broswer refresh button.) Sometimes, when a new user account is just created, these nodes aren't downloaded/created yet, and the app needs to restart to grab them. So, restart your application, and come back to this page. You should see the first nodes here.
+If no nodes appear in your list when you click the menu button. Hard refresh your application. (Hold shift and press the broswer refresh button.) Sometimes, when a new user account is just created, these nodes aren't downloaded/created yet, and the app needs to restart to grab them. So, restart your application, and come back to this page. You should see the first nodes here.
 :::
 
 3. Tap the ` + ` next to the nodes to add them to the graph. Go ahead and add them all.
@@ -64,13 +78,12 @@ You might have an added category from the [Create Entry](create-post) step inclu
 
 
 :::tip Zoom out!
-This beta version currently scales these starting nodes to be HUGE!
-Zoom out so you can see them on your screen. When you add them, the nodes start very large, and to the left.
+This beta version currently scales these starting nodes to be HUGE and to the right! Zoom out, and/or drag the blank chart to the left. 
 :::
 
 
 :::tip Scroll down
-Scroll down to get the **Personal** item
+The Nodes List is Scrollable and searchable. Scroll down to get the **Personal** item.
 :::
 
 ## 3. Create 3 Activities
@@ -132,4 +145,4 @@ Save your changes before you leave the page!!!
 
 ## Next Steps
 
-After you have created this graph. Now you are ready to make the snapshots. The snapshots will help you create groupings on the graph of which you would like to relate.
+After you have created this graph. Now you are ready to make the snapshots. The snapshots will let you create groups of nodes on the graph you would like to compare.

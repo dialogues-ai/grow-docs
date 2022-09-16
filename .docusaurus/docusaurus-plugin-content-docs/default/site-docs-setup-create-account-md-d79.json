@@ -1,7 +1,7 @@
 {
   "unversionedId": "setup/create-account",
   "id": "setup/create-account",
-  "title": "Create Account",
+  "title": "1. Create Account",
   "description": "Follow these steps to create your account.",
   "source": "@site/docs/setup/create-account.md",
   "sourceDirName": "setup",
@@ -21,7 +21,7 @@
     "permalink": "/grow-docs/docs/introduction/access_grow"
   },
   "next": {
-    "title": "Create Entry",
+    "title": "2. Create Entry",
     "permalink": "/grow-docs/docs/setup/create-post"
   }
 }

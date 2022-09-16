@@ -37,25 +37,25 @@
         "items": [
           {
             "type": "link",
-            "label": "Create Account",
+            "label": "1. Create Account",
             "href": "/grow-docs/docs/setup/create-account",
             "docId": "setup/create-account"
           },
           {
             "type": "link",
-            "label": "Create Entry",
+            "label": "2. Create Entry",
             "href": "/grow-docs/docs/setup/create-post",
             "docId": "setup/create-post"
           },
           {
             "type": "link",
-            "label": "Create Graph",
+            "label": "3. Create Graph",
             "href": "/grow-docs/docs/setup/create-graph",
             "docId": "setup/create-graph"
           },
           {
             "type": "link",
-            "label": "Create Snapshot",
+            "label": "4. Create Snapshot",
             "href": "/grow-docs/docs/setup/create-snapshot",
             "docId": "setup/create-snapshot"
           }
@@ -108,25 +108,25 @@
     },
     "setup/create-account": {
       "id": "setup/create-account",
-      "title": "Create Account",
+      "title": "1. Create Account",
       "description": "Follow these steps to create your account.",
       "sidebar": "tutorialSidebar"
     },
     "setup/create-graph": {
       "id": "setup/create-graph",
-      "title": "Create Graph",
-      "description": "The graph and snapshot are the last steps to setting up your journal. And the graph takes just a little planning. Together we'll create a simple graph, and you can add to it, and start a new one as you get a grasp of it.",
+      "title": "3. Create Graph",
+      "description": "The graph and snapshot are the last steps to setting up your journal.",
       "sidebar": "tutorialSidebar"
     },
     "setup/create-post": {
       "id": "setup/create-post",
-      "title": "Create Entry",
+      "title": "2. Create Entry",
       "description": "Let's create an entry!",
       "sidebar": "tutorialSidebar"
     },
     "setup/create-snapshot": {
       "id": "setup/create-snapshot",
-      "title": "Create Snapshot",
+      "title": "4. Create Snapshot",
       "description": "You must have created a graph in order to start making snapshots.",
       "sidebar": "tutorialSidebar"
     },

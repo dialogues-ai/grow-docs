@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create Entry
+# 2. Create Entry
 
 Let's create an entry! 
 

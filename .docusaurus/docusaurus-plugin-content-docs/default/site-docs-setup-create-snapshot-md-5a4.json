@@ -1,7 +1,7 @@
 {
   "unversionedId": "setup/create-snapshot",
   "id": "setup/create-snapshot",
-  "title": "Create Snapshot",
+  "title": "4. Create Snapshot",
   "description": "You must have created a graph in order to start making snapshots.",
   "source": "@site/docs/setup/create-snapshot.md",
   "sourceDirName": "setup",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create Graph",
+    "title": "3. Create Graph",
     "permalink": "/grow-docs/docs/setup/create-graph"
   },
   "next": {

@@ -69,7 +69,7 @@
                 "permalink": "/grow-docs/docs/introduction/welcome"
               },
               "next": {
-                "title": "Create Account",
+                "title": "1. Create Account",
                 "permalink": "/grow-docs/docs/setup/create-account"
               }
             },
@@ -122,7 +122,7 @@
             {
               "unversionedId": "setup/create-account",
               "id": "setup/create-account",
-              "title": "Create Account",
+              "title": "1. Create Account",
               "description": "Follow these steps to create your account.",
               "source": "@site/docs/setup/create-account.md",
               "sourceDirName": "setup",
@@ -142,15 +142,15 @@
                 "permalink": "/grow-docs/docs/introduction/access_grow"
               },
               "next": {
-                "title": "Create Entry",
+                "title": "2. Create Entry",
                 "permalink": "/grow-docs/docs/setup/create-post"
               }
             },
             {
               "unversionedId": "setup/create-graph",
               "id": "setup/create-graph",
-              "title": "Create Graph",
-              "description": "The graph and snapshot are the last steps to setting up your journal. And the graph takes just a little planning. Together we'll create a simple graph, and you can add to it, and start a new one as you get a grasp of it.",
+              "title": "3. Create Graph",
+              "description": "The graph and snapshot are the last steps to setting up your journal.",
               "source": "@site/docs/setup/create-graph.md",
               "sourceDirName": "setup",
               "slug": "/setup/create-graph",
@@ -165,18 +165,18 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create Entry",
+                "title": "2. Create Entry",
                 "permalink": "/grow-docs/docs/setup/create-post"
               },
               "next": {
-                "title": "Create Snapshot",
+                "title": "4. Create Snapshot",
                 "permalink": "/grow-docs/docs/setup/create-snapshot"
               }
             },
             {
               "unversionedId": "setup/create-post",
               "id": "setup/create-post",
-              "title": "Create Entry",
+              "title": "2. Create Entry",
               "description": "Let's create an entry!",
               "source": "@site/docs/setup/create-post.md",
               "sourceDirName": "setup",
@@ -192,18 +192,18 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create Account",
+                "title": "1. Create Account",
                 "permalink": "/grow-docs/docs/setup/create-account"
               },
               "next": {
-                "title": "Create Graph",
+                "title": "3. Create Graph",
                 "permalink": "/grow-docs/docs/setup/create-graph"
               }
             },
             {
               "unversionedId": "setup/create-snapshot",
               "id": "setup/create-snapshot",
-              "title": "Create Snapshot",
+              "title": "4. Create Snapshot",
               "description": "You must have created a graph in order to start making snapshots.",
               "source": "@site/docs/setup/create-snapshot.md",
               "sourceDirName": "setup",
@@ -219,7 +219,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create Graph",
+                "title": "3. Create Graph",
                 "permalink": "/grow-docs/docs/setup/create-graph"
               },
               "next": {
@@ -246,7 +246,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create Snapshot",
+                "title": "4. Create Snapshot",
                 "permalink": "/grow-docs/docs/setup/create-snapshot"
               },
               "next": {
