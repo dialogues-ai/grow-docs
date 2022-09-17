@@ -5,11 +5,7 @@ sidebar_position: 1
 # Welcome to Grow!  
 <img src="/grow-docs/img/armed-image.png" width="90" align="right"/>
 
-Hi! Welcome to Grow! This can be a very cool tool for you to use in your life. It should feel like the Robin to your Batman. As is, you'll get to record your life down in a journal, which has always been thought of as a good activity, but like flossing, it just doesn't get done. Hopefully, we can make it a little more interesting, and valuable!, than regular journaling by adding some cool features to it, to give you insights into your life. Our job is not to tell you who you are. Our job is to reflect back what you did and said, highlight your values, and let you see how you are becoming.
-
-All of your entries are stored securely with Google Cloud Platform; we are not managing the servers ourselves. Also, there's a way to export everything you've written. These are your entries, not ours, and you must have full access to all of them. (It is our access which should be limited!) Eventually, we'll create a way for you store the data yourself without them ever touching our hands. We want to be the paper makers, not the vault keepers.
-
-This is a beta product, so there are some buggy things. It's been important to create the tools to enable the product first; every day without having written, was a day of less importance. To make up for some of the haste, we've supplied a [Known Bugs](../frequent-errors) page. As of July 2022, we are finally able to capture most of what was invisioned to write, and, can finally circle back to start upgrading the software's quality.
+Hi! Welcome to Grow! This can be a very cool tool for you to use in your life. It ought to act like a companion in your pocket to jot down what you are doing and when. It's for you to tell your story as you go along.
 
 I hope this works with you in your life.  
 If it doesn't now, maybe it can in the future.     ~jonny
@@ -18,7 +14,7 @@ If it doesn't now, maybe it can in the future.     ~jonny
 
 Grow acts as a way to get your thoughts and activities recorded when they happen. It is designed to be minimally intrusive to your attention so you can make a post, then get on with your day. 
 
-Hopefully, each post takes only 10 seconds to make-they don't have to be long, and I'll show you some [examples](../setup/create-post). 
+Ideally, each post takes only 10 seconds to make-they don't have to be long, and I'll show you some [examples](../setup/create-post). 
 
 The idea is: With just 5 posts a day, you'll have spent less than a minute with the app. But, in just that time, by the end of the week, you'll have 30+ entries stating what you were up to throughout the week, and stats available about how your time is allocated between different people, places, and things.
 

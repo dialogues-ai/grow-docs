@@ -29,7 +29,7 @@ Web app download guides: [desktop](https://support.google.com/chrome/answer/9658
 
 ## 3. Clock display.
 
-There is a clock display which looks like this. (Only available for Mac desktops right now.) The download link is available from the [grow.dialogues.ai](https://grow.dialogues.ai/) homepage on desktops. If you are not seeing the download link just below the "Enter App" button in your browser, try expanding your browser to full screen.
+There is a clock display which looks like this. It is completely separate from the main app itself, and only available for Mac desktops right now. The download link is available from the [grow.dialogues.ai](https://grow.dialogues.ai/) homepage on desktops. If you are not seeing the download link just below the "Enter App" button in your browser, try expanding your browser to full screen.
 
 The clock display provides a live feed of your current entries, given your snapshot.
 
