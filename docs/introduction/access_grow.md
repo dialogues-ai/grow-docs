@@ -14,6 +14,8 @@ There are 3 ways to access Grow.
 This is by far the best choice. The entire app was designed to work and function well from a larger screen with a mouse. Entries can be made from the mobile app, but it can feel a little weird.
 
 
+![/img/login_screen/login_screen](/img/login_screen/login_screen.png)
+
 ## 2. Download the web app.
 
 Download the app to your device on either mobile or desktop.

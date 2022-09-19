@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 1. Create Account
 
+![/img/login_screen/login_screen](/img/login_screen/login_screen.png)
+
 Follow these steps to create your account.
 
 ## Create an account
@@ -12,6 +14,7 @@ Steps:
 2. `Click "Sign Up".`
 3. `Enter email and password.`
 4. `Click "Sign Up".`  
+
   
 
 

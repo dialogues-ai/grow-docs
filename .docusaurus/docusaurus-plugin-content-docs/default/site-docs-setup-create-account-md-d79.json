@@ -2,7 +2,7 @@
   "unversionedId": "setup/create-account",
   "id": "setup/create-account",
   "title": "1. Create Account",
-  "description": "Follow these steps to create your account.",
+  "description": "/img/loginscreen/loginscreen",
   "source": "@site/docs/setup/create-account.md",
   "sourceDirName": "setup",
   "slug": "/setup/create-account",
