@@ -31,23 +31,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "setup/advanced/create-graph",
+              "path": "/grow-docs/docs/setup/advanced/create-graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup/advanced/create-snapshot",
+              "path": "/grow-docs/docs/setup/advanced/create-snapshot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "setup/create-account",
               "path": "/grow-docs/docs/setup/create-account",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "setup/create-graph",
-              "path": "/grow-docs/docs/setup/create-graph",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "setup/create-post",
               "path": "/grow-docs/docs/setup/create-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "setup/create-snapshot",
-              "path": "/grow-docs/docs/setup/create-snapshot",
               "sidebar": "tutorialSidebar"
             },
             {

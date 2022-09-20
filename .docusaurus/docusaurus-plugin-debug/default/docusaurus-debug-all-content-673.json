@@ -120,6 +120,60 @@
               }
             },
             {
+              "unversionedId": "setup/advanced/create-graph",
+              "id": "setup/advanced/create-graph",
+              "title": "3. Create Graph",
+              "description": "The graph and snapshot are the last steps to setting up your journal. These are advanced uses, and not necessary to getting something from writing entries.",
+              "source": "@site/docs/setup/advanced/create-graph.md",
+              "sourceDirName": "setup/advanced",
+              "slug": "/setup/advanced/create-graph",
+              "permalink": "/grow-docs/docs/setup/advanced/create-graph",
+              "draft": false,
+              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/setup/advanced/create-graph.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2. Create Entry",
+                "permalink": "/grow-docs/docs/setup/create-post"
+              },
+              "next": {
+                "title": "4. Create Snapshot",
+                "permalink": "/grow-docs/docs/setup/advanced/create-snapshot"
+              }
+            },
+            {
+              "unversionedId": "setup/advanced/create-snapshot",
+              "id": "setup/advanced/create-snapshot",
+              "title": "4. Create Snapshot",
+              "description": "You must have created a graph in order to start making snapshots.",
+              "source": "@site/docs/setup/advanced/create-snapshot.md",
+              "sourceDirName": "setup/advanced",
+              "slug": "/setup/advanced/create-snapshot",
+              "permalink": "/grow-docs/docs/setup/advanced/create-snapshot",
+              "draft": false,
+              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/setup/advanced/create-snapshot.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3. Create Graph",
+                "permalink": "/grow-docs/docs/setup/advanced/create-graph"
+              },
+              "next": {
+                "title": "Tips & Tricks",
+                "permalink": "/grow-docs/docs/tips"
+              }
+            },
+            {
               "unversionedId": "setup/create-account",
               "id": "setup/create-account",
               "title": "1. Create Account",
@@ -147,33 +201,6 @@
               }
             },
             {
-              "unversionedId": "setup/create-graph",
-              "id": "setup/create-graph",
-              "title": "3. Create Graph",
-              "description": "The graph and snapshot are the last steps to setting up your journal.",
-              "source": "@site/docs/setup/create-graph.md",
-              "sourceDirName": "setup",
-              "slug": "/setup/create-graph",
-              "permalink": "/grow-docs/docs/setup/create-graph",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/setup/create-graph.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "2. Create Entry",
-                "permalink": "/grow-docs/docs/setup/create-post"
-              },
-              "next": {
-                "title": "4. Create Snapshot",
-                "permalink": "/grow-docs/docs/setup/create-snapshot"
-              }
-            },
-            {
               "unversionedId": "setup/create-post",
               "id": "setup/create-post",
               "title": "2. Create Entry",
@@ -197,34 +224,7 @@
               },
               "next": {
                 "title": "3. Create Graph",
-                "permalink": "/grow-docs/docs/setup/create-graph"
-              }
-            },
-            {
-              "unversionedId": "setup/create-snapshot",
-              "id": "setup/create-snapshot",
-              "title": "4. Create Snapshot",
-              "description": "You must have created a graph in order to start making snapshots.",
-              "source": "@site/docs/setup/create-snapshot.md",
-              "sourceDirName": "setup",
-              "slug": "/setup/create-snapshot",
-              "permalink": "/grow-docs/docs/setup/create-snapshot",
-              "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/setup/create-snapshot.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "3. Create Graph",
-                "permalink": "/grow-docs/docs/setup/create-graph"
-              },
-              "next": {
-                "title": "Tips & Tricks",
-                "permalink": "/grow-docs/docs/tips"
+                "permalink": "/grow-docs/docs/setup/advanced/create-graph"
               }
             },
             {
@@ -247,7 +247,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "4. Create Snapshot",
-                "permalink": "/grow-docs/docs/setup/create-snapshot"
+                "permalink": "/grow-docs/docs/setup/advanced/create-snapshot"
               },
               "next": {
                 "title": "Known Bugs",
@@ -289,12 +289,20 @@
                     "id": "setup/create-post"
                   },
                   {
-                    "type": "doc",
-                    "id": "setup/create-graph"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "setup/create-snapshot"
+                    "type": "category",
+                    "label": "Advanced",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "setup/advanced/create-graph"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "setup/advanced/create-snapshot"
+                      }
+                    ]
                   }
                 ]
               },

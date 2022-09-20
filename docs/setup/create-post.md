@@ -6,9 +6,26 @@ sidebar_position: 2
 
 Let's create an entry! 
 
-Entries are the ❤️ of this entire application, so let's walk through how to make an entry.
+Entries are the ❤️ of this entire application, and can be all that you need and use.
+The other two sources to input and organize your journal are forms, and the [graph](advanced/create-graph).
 
-Eventually, making entries should be super easy, and can be made in seconds. How long they take will just depend on how much you have to say about what you did.
+Entries will allow stats:
+
+# Stats Available with Entry
+
+| Feature       | Stats                  |
+| ------------- | -----------            |
+| **Entries**   | Searchable Content     | 
+|               | Total Duration Totals  | 
+|               | Total Duration Trends  | 
+|               | Search By Tags         |
+|               | Emotion Scores         |
+|               | Ratings Scores         |
+|               | POS                    |
+
+
+
+Eventually, making entries should be super easy, and can be made in seconds. How long they take should depend on how much you have to say about what you did.
 
 1. **Make an entry.**
 2. Setup your first graph.

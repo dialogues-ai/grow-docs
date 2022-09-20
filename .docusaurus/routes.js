@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/grow-docs/docs',
-    component: ComponentCreator('/grow-docs/docs', 'd1a'),
+    component: ComponentCreator('/grow-docs/docs', '45b'),
     routes: [
       {
         path: '/grow-docs/docs/frequent-errors',
@@ -36,26 +36,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/grow-docs/docs/setup/advanced/create-graph',
+        component: ComponentCreator('/grow-docs/docs/setup/advanced/create-graph', '631'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/grow-docs/docs/setup/advanced/create-snapshot',
+        component: ComponentCreator('/grow-docs/docs/setup/advanced/create-snapshot', '387'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/grow-docs/docs/setup/create-account',
         component: ComponentCreator('/grow-docs/docs/setup/create-account', '9e2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/grow-docs/docs/setup/create-graph',
-        component: ComponentCreator('/grow-docs/docs/setup/create-graph', 'ecb'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/grow-docs/docs/setup/create-post',
         component: ComponentCreator('/grow-docs/docs/setup/create-post', '21a'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/grow-docs/docs/setup/create-snapshot',
-        component: ComponentCreator('/grow-docs/docs/setup/create-snapshot', '832'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
