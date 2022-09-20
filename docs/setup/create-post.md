@@ -13,15 +13,15 @@ Entries will allow stats:
 
 # Stats Available with Entry
 
-| Feature       | Stats                  |
-| ------------- | -----------            |
-| **Entries**   | Searchable Content     | 
-|               | Total Duration Totals  | 
-|               | Total Duration Trends  | 
-|               | Search By Tags         |
-|               | Emotion Scores         |
-|               | Ratings Scores         |
-|               | POS                    |
+| Feature       | Class         | Stats                  |                  
+| ------------- | -------       | -----------            |                  
+| **Entries**   | Primary <br />Visualizations | Searchable Content     |                  
+|               |               | Habit Display Board    |                    
+|               |               | Total Duration Totals  |                   
+|               |               | Total Duration Trends  |                  
+|               | Search by tag | Emotion Scores         |                  
+|               |               | Ratings Scores         |                  
+|               |               | Part Of Speech         |                  
 
 
 
