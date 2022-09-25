@@ -12,19 +12,23 @@ If it doesn't now, maybe it can in the future.     ~jonny
 
 ## Why Grow?
 
-Grow acts as a way to get your thoughts and activities recorded when they happen. It is designed to be minimally intrusive to your attention so you can make a post, then get on with your day. 
+Grow acts as a way to get your thoughts and activities recorded when they happen. It is designed to be minimally intrusive to your attention. We want to represent the values of items in your life, so you can monitor your time spent doing them.
 
-Ideally, each post takes only 10 seconds to make-they don't have to be long, and I'll show you some [examples](../setup/create-post). 
+If your Mom is important, you can easily see how you're tending to that relationship.
+If it is a sport, or hobby, you care about, writing about it in the journal can give you a place to state that is valuable, have it reflected back at you, and monitor how you are tending to it.
 
-The idea is: With just 5 posts a day, you'll have spent less than a minute with the app. But, in just that time, by the end of the week, you'll have 30+ entries stating what you were up to throughout the week, and stats available about how your time is allocated between different people, places, and things.
+Just 5 posts a day, could be only a minute with the app, but, in just one week, you'll have 30+ entries stating what you were up to and a place that represents your values, in terms of the important: 
+1. People in your life
+2. Places where you spend your time
+3. And the activities you are up to
 
-Grow offers a structured approach to journaling so that you can quickly write down what you did, then investigate those entries to recall where you had left off on a project, or get some insights to your overall activity levels.
+Write what you did, then investigate those entries to recall where you left off on a project, or see if it needs some TLC.
 
-Eventually, an interactive framework will be built around this information so you have better dialogues with yourself, with improved memory, and reinforced sets of personal values.
+This platform has been built so you have better dialogues with yourself, with improved memory, and reinforced sets of personal values.
 
 ## How Grow is different
 
-Grow is meant to offer a place to write down what happened. 
+Grow is meant to offer a place to write down what happened.
 
 As a byproduct it can act as habit-building, and time-tracking tool, but differs from the present ones available because it has a better organizational system. Others are limited in hierarchical structures, relating sub-projects with one another, changing names of projects, and starting fresh with new projects. Grow allows for all of these.
 
@@ -33,16 +37,8 @@ Grow is also different from project management tools, because life is not a proj
 
 ## What you'll get
 
-The structure of the journal allows in-depth feedback about your time doing particular activities, how those activities changed over time, and how you might have felt during the activity while doing it.
+Finally, all of this is meant for your eyes only. Your writing becomes honest and open when the outside world isn't looking over your shoulder. Then, from this state, it is easier to move in the direction best-suited to you. 
 
-If kept, this journal allows us to give you a weekly summary of your activities, for what was the most notable things that occurred, what activities are trending, what new person might have entered your life, what location used to be the hotspot, which location is on the way out, and more. Some of these features are already available, and some are on the way.
-
-Finally, the primary purpose for this app was to document important information to one's life. The typical social media game has a lot of chest-pounding, and pontificating and rewards people with followers and likes, which, to me, doesn't reflect the kind of person I care to be, not reflects the kidns of things I care about discussing. So, Grow offers a way to tell stories of one's existence.
-
-You can state: what you made, how you felt, who you were with, where you were at, and tell the storeis of your life when they happen. With short entries every day, by the end of a year, you'll have a full year's worth of stories, and have created a very precise memoir-like thing with only a little effort each day.
-
-For more tips on what to include in your entries check out the guide. (Guide coming soon...)
-
-And, finally, all of this is meant for your eyes only. Your writing becomes honest and open when the outside world isn't looking over your shoulder. Then, from this state, it is easier to move in the direction best-suited to you.
+Our relationship as an organization is between us and you. We are not judgmental. Our job is to be a papermaker. We provide a medium and do not say what is appropriate or not to write. When it comes time- if you desire, and when the app permits- to enable sharing entries with people you trust, that will be up to you to make an agreement made between you and them. When that time comes, we will let you know.
 
 ## [Get at it!](../setup/create-account) 

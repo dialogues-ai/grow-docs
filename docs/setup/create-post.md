@@ -24,7 +24,6 @@ Entries will allow stats:
 |               |               | Part Of Speech         |                  
 
 
-
 Eventually, making entries should be super easy, and can be made in seconds. How long they take should depend on how much you have to say about what you did.
 
 1. **Make an entry.**
