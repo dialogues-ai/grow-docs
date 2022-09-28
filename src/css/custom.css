@@ -11,7 +11,42 @@
   src: url("/static/fonts/Ranade-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
+  text-justify: inter-word;
 }
+
+
+@media screen and (max-width: 996px) {
+  /* :root {
+    --ifm-font-size-base: 14px;
+  } */
+
+  /* h1,h2,h3,h4,h5 { 
+    font-family: "Zodiak";
+  } */
+
+  body{
+    /* font-family: "PlusJakartaSans"; */
+    text-justify: inter-word;
+    text-align: justify;
+  }
+}
+
+/* @media screen and (min-width: 997px) { */
+  /* :root {
+    --ifm-font-size-base: 14px;
+  } */
+
+  /* h1,h2,h3,h4,h5 { 
+    font-family: "Zodiak";
+  } */
+
+  /* body{ */
+    /* font-family: "PlusJakartaSans"; */
+    /* text-align: justify;
+    text-justify: inter-word; */
+  /* }
+} */
+
 
 :root {
   --ifm-color-primary: #30ccb2;
