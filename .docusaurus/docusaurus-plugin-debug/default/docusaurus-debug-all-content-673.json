@@ -42,8 +42,8 @@
                 "permalink": "/grow-docs/docs/tips"
               },
               "next": {
-                "title": "Privacy",
-                "permalink": "/grow-docs/docs/privacy"
+                "title": "Privacy Policy",
+                "permalink": "/grow-docs/docs/privacy_policy"
               }
             },
             {
@@ -97,16 +97,16 @@
               }
             },
             {
-              "unversionedId": "privacy",
-              "id": "privacy",
-              "title": "Privacy",
-              "description": "For this beta version, we utilized Google Cloud Platform to deliver the product.",
-              "source": "@site/docs/privacy.md",
+              "unversionedId": "privacy_policy",
+              "id": "privacy_policy",
+              "title": "Privacy Policy",
+              "description": "Overview",
+              "source": "@site/docs/privacy_policy.md",
               "sourceDirName": ".",
-              "slug": "/privacy",
-              "permalink": "/grow-docs/docs/privacy",
+              "slug": "/privacy_policy",
+              "permalink": "/grow-docs/docs/privacy_policy",
               "draft": false,
-              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/privacy.md",
+              "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/privacy_policy.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -316,7 +316,7 @@
               },
               {
                 "type": "doc",
-                "id": "privacy"
+                "id": "privacy_policy"
               }
             ]
           }

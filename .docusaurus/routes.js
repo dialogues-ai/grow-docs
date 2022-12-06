@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/grow-docs/docs',
-    component: ComponentCreator('/grow-docs/docs', '45b'),
+    component: ComponentCreator('/grow-docs/docs', '677'),
     routes: [
       {
         path: '/grow-docs/docs/frequent-errors',
@@ -30,8 +30,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/grow-docs/docs/privacy',
-        component: ComponentCreator('/grow-docs/docs/privacy', '359'),
+        path: '/grow-docs/docs/privacy_policy',
+        component: ComponentCreator('/grow-docs/docs/privacy_policy', '702'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

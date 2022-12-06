@@ -83,9 +83,9 @@
       },
       {
         "type": "link",
-        "label": "Privacy",
-        "href": "/grow-docs/docs/privacy",
-        "docId": "privacy"
+        "label": "Privacy Policy",
+        "href": "/grow-docs/docs/privacy_policy",
+        "docId": "privacy_policy"
       }
     ]
   },
@@ -108,10 +108,10 @@
       "description": "Hi! Welcome to Grow! This can be a very cool tool for you to use in your life. It ought to act like a companion in your pocket to jot down what you are doing and when. It's for you to tell your story as you go along.",
       "sidebar": "tutorialSidebar"
     },
-    "privacy": {
-      "id": "privacy",
-      "title": "Privacy",
-      "description": "For this beta version, we utilized Google Cloud Platform to deliver the product.",
+    "privacy_policy": {
+      "id": "privacy_policy",
+      "title": "Privacy Policy",
+      "description": "Overview",
       "sidebar": "tutorialSidebar"
     },
     "setup/advanced/create-graph": {
